@@ -1,6 +1,9 @@
 Zelda3-MSU-Audio
 ================
 
+##Gimmie the quick version?
+Go [here](https://github.com/mwreichelt/Zelda3-MSU-Audio/wiki/Getting-Started) and start reading!
+
 ##What is this nonsense?
 This is a patch for Zelda 3 designed to use the MSU-1 chip in an SD2SNES cartridge to play CD quality audio on a real SNES.
 
@@ -26,7 +29,7 @@ You'll have to figure that one out on your own, Sherlock.
 I've only tried it on a headerless American release ROM. I've heard whispers from the internet that it will work on any release version of the game except the original Japanese release with all those neat glitches that speedrunners like.
 
 ##I downloaded your package and there's no way this covers every song in the game!
-You're right, it doesn't. Refer to the Getting Started section for more complete info, but basically, I don't have the rights to redistribute a complete soundtrack replacement for the game. So I offer what I can and then tell you where to find more and make your own substitutions. I've done my best to make sure that the initial patch will fall back onto the original soundtrack built into the game when you do not provide a new song for it, but currently there are some catches for that depending on what platform you're playing the game on (read: that feature doesn't work right now on emulator, so it's all CD audio or nothin').
+You're right, it doesn't. Refer to the [Getting Started](https://github.com/mwreichelt/Zelda3-MSU-Audio/wiki/Getting-Started) section for more complete info, but basically, I don't have the rights to redistribute a complete soundtrack replacement for the game. So I offer what I can and then tell you where to find more and make your own substitutions. I've done my best to make sure that the initial patch will fall back onto the original soundtrack built into the game when you do not provide a new song for it, but currently there are some catches for that depending on what platform you're playing the game on (read: that feature doesn't work right now on emulator, so it's all CD audio or nothin').
 
 ##What platforms can I use this patch on?
 The patch currently works on bSNES v075 (mostly) and on the SNES cartridges equipped with the MSU-1 co-processor.
@@ -38,7 +41,7 @@ Yes. You will need a flashcart with the MSU-1 co-processor chip implemented in i
 Yes, you can put Rob Zombie's Dragula into Zelda 3 with this patch. You monster.
 
 ##How would I do that?
-Go on over to the Getting Started section and find out!
+Go on over to the [Getting Started](https://github.com/mwreichelt/Zelda3-MSU-Audio/wiki/Getting-Started) section and find out!
 
 ##I found something that's wrong. I think it's a bug.
 Please report it in the Issues section and be as detailed as you can about how to reproduce the error. Screenshots are helpful if it only happens in a certain position or if there's a graphical bug.
