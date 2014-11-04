@@ -2,6 +2,9 @@ Zelda3-MSU-Audio
 ================
 
 ##Gimmie the quick version?
+Go [here](https://github.com/qwertymodo/MSU1-Zelda) and check out this patch! It's better than my own and was written by Conn79. You can find a link to the patch's development thread [here](http://www.zeldix.net/t453-enable-msu-streaming-music).
+
+##Yeah, but I wanna know more about this project for some reason. Again, gimmie the quick version.
 Go [here](https://github.com/mwreichelt/Zelda3-MSU-Audio/wiki/Getting-Started) and start reading!
 
 ##What is this nonsense?
